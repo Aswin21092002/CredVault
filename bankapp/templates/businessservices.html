@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>{% load static %}
+  <!-- meta tag -->
+  <meta charset="utf-8">
+  <title>CrediVault Business Solutions</title>
+  <meta name="description" content="">
+  <!-- responsive tag -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- favicon -->
+  <link rel="apple-touch-icon" href="apple-touch-icon.png' %}">
+  <link rel="shortcut icon" type="image/x-icon" href="{% static 'bank/assets/images/Favicon Transparent.ico">
+  <!-- Bootstrap v4.4.1 css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/bootstrap.min.css' %}">
+  <!-- font-awesome css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/font-awesome.min.css' %}">
+  <!-- animate css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/animate.css' %}">
+  <!-- aos css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/aos.css' %}">
+  <!-- owl.carousel css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/owl.carousel.css' %}">
+  <!-- slick css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/slick.css' %}">
+  <!-- off canvas css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/off-canvas.css' %}">
+  <!-- linea-font css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/fonts/linea-fonts.css' %}">
+  <!-- flaticon css  -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/fonts/flaticon.css' %}">
+  <!-- magnific popup css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/magnific-popup.css' %}">
+  <!-- Main Menu css -->
+  <link rel="stylesheet" href="{% static 'bank/assets/css/rsmenu-main.css' %}">
+  <!-- nivo slider CSS -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/inc/custom-slider/css/nivo-slider.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/inc/custom-slider/css/preview.css' %}">
+  <!-- rsmenu transitions css -->
+  <link rel="stylesheet" href="{% static 'bank/assets/css/rsmenu-transitions.css' %}">
+  <!-- spacing css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/rs-spacing.css' %}">
+  <!-- style css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/style.css' %}"> <!-- This stylesheet dynamically changed from style.less -->
+  <!-- responsive css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/responsive.css' %}">
+</head>
+
+<body>
+
+  <!-- Preloader area start here -->
+  <div id="loader" class="loader">
+    <div class="spinner"></div>
+  </div>
+  <!--End preloader here -->
+
+  <!--Full width header Start-->
+  <div class="full-width-header">
+
+    <!--Header Start-->
+    <header id="rs-header" class="rs-header">
+      <!-- Menu Start -->
+      <div class="menu-area menu-sticky">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3">
+              <div class="logo-area">
+                <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/Transparent Logo1.png' %}" alt="logo"></a>
+              </div>
+            </div>
+            <div class="col-lg-9 text-right">
+              <div class="rs-menu-area">
+                <div class="main-menu">
+                  <div class="mobile-menu">
+                    <a class="rs-menu-toggle">
+                      <i class="fa fa-bars"></i>
+                    </a>
+                  </div>
+                  <nav class="rs-menu pr-65">
+                    <ul class="nav-menu">
+
+                      <li class="rs-mega-menu mega-rs "> <a href="{% url 'index' %}">Home</a>
+
+                      </li>
+
+                      <li class="">
+                        <a href="{% url 'about' %}">About</a>
+
+                      </li>
+
+                      <li class="current-menu-item">
+                        <a href="{% url 'business' %}">Business Services</a>
+
+                      </li>
+
+                      <li class="">
+                        <a href="{% url 'account' %}">My Account</a>
+
+                      </li>
+                      <li class="">
+                        <a href="https://www.leadsdatabasesoftware.com/" target="_blank">Leads Database</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="{% url 'contact' %}">Contact</a>
+
+                      </li>
+                    </ul> <!-- //.mega-menu -->
+
+                    </ul> <!-- //.nav-menu -->
+                  </nav>
+                </div> <!-- //.main-menu -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Menu End -->
+
+      <!-- Canvas Menu start -->
+      <nav class="right_menu_togle hidden-md">
+        <div class="close-btn">
+          <span id="nav-close" class="humburger">
+            <span class="dot1"></span>
+            <span class="dot2"></span>
+            <span class="dot3"></span>
+            <span class="dot4"></span>
+            <span class="dot5"></span>
+            <span class="dot6"></span>
+            <span class="dot7"></span>
+            <span class="dot8"></span>
+            <span class="dot9"></span>
+          </span>
+        </div>
+        <div class="canvas-logo">
+          <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/logo-dark.png' %}" alt="logo"></a>
+        </div>
+        <div class="offcanvas-text">
+          <p>Consectetur adipiscing elit. Duis at dictum risus, non suscip it arcu. Quisque aliquam posuere tortor
+            aliquam posuere tortor develop database.</p>
+        </div>
+        <div class="canvas-contact">
+          <ul class="contact">
+            <li><i class="flaticon-location"></i> 374 William S Canning Blvd, Fall River MA 2721, USA</li>
+            {% comment %} <li><i class="flaticon-call"></i><a href="tel:+8882735916">(888) 273-5916</a></li> {% endcomment %}
+            <li><i class="flaticon-email"></i><a href="mailto:info@sendesta.com">info@sendesta.com</a></li>
+            <li><i class="flaticon-clock"></i>10:00 - 17:00</li>
+          </ul>
+          <ul class="social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- Canvas Menu end -->
+    </header>
+    <!--Header End-->
+  </div>
+  <!--Full width header End-->
+
+  <!-- Main content Start -->
+  <div class="main-content">
+    <!-- Breadcrumbs Section Start -->
+    <div class="rs-breadcrumbs bg-2">
+      <div class="container">
+        <div class="content-part text-center">
+          <h1 class="breadcrumbs-title white-color mb-0">Services</h1>
+        </div>
+      </div>
+    </div>
+    <!-- Breadcrumbs Section End -->
+
+    <!-- Services Section Start -->
+    <div id="rs-services" class="rs-services style1 modify2 pt-100 pb-84 md-pt-80 md-pb-64">
+      <div class="container">
+        <div class="row gutter-16">
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/1.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Business Analysis</a></h5>
+                <div class="desc">Sendesta is offering businesses an easy and cost-effective approach to get instant
+                  business credit reports online. Through business credit reports, you can make the most important
+                  financial decisions for the development of your business.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/2.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Reports Analysis</a></h5>
+                <div class="desc">We always provide people a complete solution focused of any business.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/3.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Business Credit Subscription Plan</a></h5>
+                <div class="desc">By subscribing to this plan, you will have unlimited access to a sole company report.
+                  This plan covers the following two aspects</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/4.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Business Credit Monitoring</a></h5>
+                <div class="desc">We constantly monitor company reports and alert the subscribers through emails if
+                  there is any change in the business credit report. If any bank, supplier, or anyone else wants to
+                  review your business credit report, you will get notified of this activity. Business credit monitoring
+                  enables you to find out what factors are affecting your business.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/5.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Business Indentity Monitoring</a></h5>
+                <div class="desc">This is our monitoring technology that keeps your business information and
+                  confidential data secure. If anyone wants to misuse or want to steal your data, you will be
+                  automatically notified, and all data is collected in real-time, which makes you ready to take quick
+                  action to protect your business.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/6.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Business Credit Score Plan</a></h5>
+                <div class="desc">Through our business credit score plan, business credit professionals can get access
+                  to multiple business credit reports and credit scores. This plan is helpful for business to save their
+                  money as they don’t need to pay each time for purchasing individual reports.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part">
+                <img src="{% static 'bank/assets/images/services/icons/modify/7.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Profile plus report </a></h5>
+                <div class="desc">This is a detailed report that includes a listing of a company's registration
+                  information, trade and payment trends, days beyond terms, and full Uniform Commercial Code (UCC)
+                  filing information. This report can help you, your customers, partners, and investors to understand
+                  insights into your business’s credit file.</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-16">
+            <div class="service-wrap">
+              <div class="icon-part size-mod">
+                <img src="{% static 'bank/assets/images/services/icons/modify/8.png' %}" alt="">
+              </div>
+              <div class="content-part">
+                <h5 class="title"><a href="services-single.html">Credit Score Report</a></h5>
+                <div class="desc">This is a detailed report that consists of business registration information,
+                  collection, payments, and business credit score that determines the creditworthiness of the business.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Services Section End -->
+
+    <!-- Cta Section Start -->
+    <div class="rs-cta bg21 pt-90 pb-100 md-pt-68 md-pb-80">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title modify white">Choose A Plan To Get Started On</div>
+          <h2 class="title3 white-color">Our Experts Are Always Ready To Work <br> With You.</h2>
+          <div class="btn-part">
+            <a class="readon banner-style" href="{% url 'contact' %}">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Cta Section End -->
+  </div>
+  <!-- Main content End -->
+
+  <!-- Footer Start -->
+  <footer id="rs-footer" class="rs-footer">
+    <div class="container">
+      <div class="footer-content pt-62 pb-79 md-pb-64 sm-pt-48">
+        <div class="row">
+          <div class="col-lg-6 col-md-12 col-sm-12 footer-widget md-mb-39">
+            <div class="about-widget pr-15">
+              <div class="logo-part">
+                <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/logo1.png' %}" alt="Footer Logo"></a>
+              </div>
+              <p class="desc">Sendesta can provide you access to USA-based millions of businesses' credit information
+                within seconds. We offer multiple plans that you can purchase and can get access to reports. Our plans
+                offer you many levels of details — from presenting the basic facts of a business to detailed business
+                credit, payment, and public record histories — in an easy-to-read format.</p>
+              <div class="btn-part">
+                <a class="readon" href="{% url 'about' %}">Discover More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-12 col-sm-12 md-mb-32 footer-widget">
+            <h4 class="widget-title">Contact Info</h4>
+            <ul class="address-widget pr-40">
+              {% comment %} <li>
+                <i class="flaticon-call"></i>
+                <div class="desc">
+                  <a href="tel:+8882735916">(888) 273-5916</a>
+                </div>
+              </li> {% endcomment %}
+              <li>
+                <i class="flaticon-email"></i>
+                <div class="desc">
+                  <a href="mailto:info@sendesta.com">info@sendesta.com</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="row y-middle">
+          <div class="col-lg-6 col-md-8 sm-mb-21">
+            <div class="copyright">
+              <p>© Copyright 2021 Sendesta. All Rights Reserved.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer End -->
+
+  <!-- start scrollUp  -->
+  <div id="scrollUp">
+    <i class="fa fa-angle-up"></i>
+  </div>
+  <!-- End scrollUp  -->
+  <!-- modernizr js -->
+  <script src="{% static 'bank/assets/js/modernizr-2.8.3.min.js' %}"></script>
+  <!-- jquery latest version -->
+  <script src="{% static 'bank/assets/js/jquery.min.js' %}"></script>
+  <!-- Bootstrap v4.4.1 js -->
+  <script src="{% static 'bank/assets/js/bootstrap.min.js' %}"></script>
+  <!-- Menu js -->
+  <script src="{% static 'bank/assets/js/rsmenu-main.js' %}"></script>
+  <!-- op nav js -->
+  <script src="{% static 'bank/assets/js/jquery.nav.js' %}"></script>
+  <!-- owl.carousel js -->
+  <script src="{% static 'bank/assets/js/owl.carousel.min.js' %}"></script>
+  <!-- Slick js -->
+  <script src="{% static 'bank/assets/js/slick.min.js' %}"></script>
+  <!-- isotope.pkgd.min js -->
+  <script src="{% static 'bank/assets/js/isotope.pkgd.min.js' %}"></script>
+  <!-- imagesloaded.pkgd.min js -->
+  <script src="{% static 'bank/assets/js/imagesloaded.pkgd.min.js' %}"></script>
+  <!-- wow js -->
+  <script src="{% static 'bank/assets/js/wow.min.js' %}"></script>
+  <!-- aos js -->
+  <script src="{% static 'bank/assets/js/aos.js' %}"></script>
+  <!-- Skill bar js -->
+  <script src="{% static 'bank/assets/js/skill.bars.jquery.js' %}"></script>
+  <script src="{% static 'bank/assets/js/jquery.counterup.min.js' %}"></script>
+  <!-- counter top js -->
+  <script src="{% static 'bank/assets/js/waypoints.min.js' %}"></script>
+  <!-- video js -->
+  <script src="{% static 'bank/assets/js/jquery.mb.YTPlayer.min.js' %}"></script>
+  <!-- magnific popup js -->
+  <script src="{% static 'bank/assets/js/jquery.magnific-popup.min.js' %}"></script>
+  <!-- Nivo slider js -->
+  <script src="{% static 'bank/assets/inc/custom-slider/js/jquery.nivo.slider.js' %}"></script>
+  <!-- plugins js -->
+  <script src="{% static 'bank/assets/js/plugins.js' %}"></script>
+  <!-- parallax-effect js -->
+  <script src="{% static 'bank/assets/js/parallax-effect.min.js' %}"></script>
+  <!-- contact form js -->
+  <script src="{% static 'bank/assets/js/contact.form.js' %}"></script>
+  <!-- ProgressBar Js -->
+  <script src="{% static 'bank/assets/js/jQuery-plugin-progressbar.js' %}"></script>
+  <!-- main js -->
+  <script src="{% static 'bank/assets/js/main.js' %}"></script>
+</body>
+
+</html>

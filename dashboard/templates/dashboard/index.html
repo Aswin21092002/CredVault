@@ -1,0 +1,124 @@
+{% extends "dashboard/base.html" %}
+{% block content %}
+<!-- ============================================================== -->
+<div class="page-wrapper">
+  <!-- ============================================================== -->
+  <!-- Bread crumb and right sidebar toggle -->
+  <!-- ============================================================== -->
+  <div class="card gredient-info-bg m-t-0 m-b-0">
+    <div class="card-body">
+      <h4 class="card-title text-white">Welcome {{request.user.first_name}} {{request.user.last_name}}</h4>
+      </h4>
+      <h5 class="card-subtitle text-white op-5">Your Dashboard</h5>
+      <div class="row m-t-30 m-b-20">
+        <!-- col -->
+        <!-- <div class="col-sm-12 col-lg-6">
+                    <div class="temp d-flex align-items-center flex-row">
+                        <div class="display-5 text-white"><i class="wi wi-day-showers"></i> <span>73<sup>°</sup></span>
+                        </div>
+                        <div class="m-l-10">
+                            <h3 class="m-b-0 text-white">Saturday</h3><small class="text-white op-5">Samira,
+                                Brazil</small>
+                        </div>
+                    </div>
+                </div> -->
+      </div>
+    </div>
+  </div>
+  <!-- ============================================================== -->
+  <!-- Container fluid  -->
+  <!-- ============================================================== -->
+  <div class="container-fluid">
+    <!-- ============================================================== -->
+    <!-- Notifications, Chart -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Email Campaigns -->
+    <!-- ============================================================== -->
+    <div class="row">
+      <!-- column -->
+      <div class="col-sm-12 col-lg-12">
+        <div class="card">
+          <div class="card-body">
+            <div class="d-md-flex align-items-center">
+              <div>
+                <h4 class="card-title">Your Sendesta Score: {{score.score}}</h4>
+                <h5 class="card-subtitle">View Recommendations Below</h5>
+              </div>
+            </div>
+            <div class="row m-t-40 m-b-0">
+              <!-- column -->
+
+              <div class="col-lg-4">
+                <div class="card bg-pink text-white  card-hover">
+                  <div class="card-body">
+                    <h4 class="card-title">Maximum Credit Recommendation</h4>
+                    <div class="d-flex align-items-center m-t-30">
+                      <div class="" id="ravenue"></div>
+                      <div class="ml-auto">
+                        <h3 class="font-medium white-text m-b-0">US$ {{score.maximum_credit_recommendation}}</h3><span
+                          class="white-text op-5">See How To
+                          Improve Recommendation</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- column -->
+              <div class="col-sm-12 col-lg-6">
+                <span class="display-6 d-block text-info font-medium">100%</span>
+                <span class="text-muted">The Make Up Of Your Sendesta Score</span>
+                <ul class="list-style-none">
+                  <li class="m-t-20"><i class="fa fa-circle m-r-5 text-info font-12"></i> Payment
+                    History
+                    <span class="float-right">45%</span>
+                  </li>
+                  <li class="m-t-20"><i class="fa fa-circle m-r-5 text-cyan font-12"></i> Employee
+                    Number & Annual Sales<span class="float-right">25%</span></li>
+                  <li class="m-t-20"><i class="fa fa-circle m-r-5 text-purple font-12"></i> Open
+                    Credit <span class="float-right">17%</span></li>
+                  <li class="m-t-20"><i class="fa fa-circle m-r-5 text-orange font-12"></i> Business
+                    Age <span class="float-right">13%</span></li>
+                </ul>
+              </div>
+              <!-- column -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <style media="screen">
+        .yourcompanyinfo {
+          margin-left: 10%;
+        }
+      </style>
+      <!-- column -->
+      <div class="row">
+        <div class="yourcompanyinfo">
+          <div class="col-md-12 col-lg-12">
+            <h4 class="d-inline">Your Business Credit Recommendations</h4>
+            <p class="text-muted m-t-0">See Your Recommendations Below</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br><br>
+    <div class=" company-row">
+      <div class="row">
+        {% for recommend in recommendation %}
+        <div class="col-4 justify-content-center">
+          <div class="card">
+            <div class="card-body">
+              <h4 class="card-title">Business Credit Building Recommendation</h4>
+              <p class="card-text">{{recommend.name}}.</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <!-- ============================================================== -->
+  <!-- End Container fluid  -->
+  <!-- ============================================================== -->
+  {% endblock content %}

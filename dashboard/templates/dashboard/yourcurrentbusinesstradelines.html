@@ -1,0 +1,106 @@
+{% extends "dashboard/base.html" %}
+{% block content %} {% load static %}
+<!-- ============================================================== -->
+<style media="screen">
+  .company-row {
+    padding: 2%;
+  }
+
+  .yourcompanyinfo {
+    padding-top: 5%;
+    padding: 2%;
+    padding-bottom: -5%;
+  }
+</style>
+
+<div class="page-wrapper">
+  <div class="row">
+    <div class="col-12">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">View Your Current Business Tradelines</h4>
+          <h6 class="card-subtitle">Add Business Tradelines For Review Below</h6>
+          <div class="table-responsive">
+            <table id="demo-foo-addrow" class="table m-t-30 no-wrap table-hover contact-list" data-page-size="10">
+              <thead>
+                <tr>
+                  <th>No</th>
+                  <th>Business Name</th>
+                  <th>Email</th>
+                  <th>Phone</th>
+                  <th>Tradeline Age</th>
+                  <th>Tradeline Date</th>
+                  <th>Tradeline Amount</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for trade in tradelines %}
+                <tr>
+                  <td>{{forloop.counter}}</td>
+                  <td>{{trade.business_name}}</td>
+                  <td> {{trade.email}}</td>
+                  <td>{{trade.phone}}</td>
+                  <td>{{trade.tradeline_age}}</td>
+                  <td>{{trade.tradeline_date}}</td>
+                  <td>${{trade.tradeline_amount}}</td>
+                  <td>{{trade.status}} </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+              {% if request.user.userprofile.paid %}
+              <tfoot>
+                <tr>
+                  <td colspan="2">
+                    <button type="button" class="btn btn-info btn-rounded" data-toggle="modal"
+                      data-target="#add-contact">Add New Tradeline</button>
+                  </td>
+                  <div id="add-contact" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h4 class="modal-title" id="myModalLabel">Add New Tradeline</h4>
+                          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        </div>
+                        <div class="modal-body">
+                          <from class="form-horizontal form-material">
+                            <div class="form-group">
+                              <div class="col-md-12 m-b-20">
+                                <input type="text" class="form-control" placeholder="Business Name">
+                              </div>
+                              <div class="col-md-12 m-b-20">
+                                <input type="text" class="form-control" placeholder="Business Email">
+                              </div>
+                              <div class="col-md-12 m-b-20">
+                                <input type="text" class="form-control" placeholder="Business Phone">
+                              </div>
+                          </from>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-info waves-effect" data-dismiss="modal">Save</button>
+                          <button type="button" class="btn btn-default waves-effect"
+                            data-dismiss="modal">Cancel</button>
+                        </div>
+                      </div>
+                      <!-- /.modal-content -->
+                    </div>
+                    <!-- /.modal-dialog -->
+                  </div>
+                  <td colspan="7">
+                    <div class="">
+                      <nav aria-label="Page navigation example">
+                        <ul class="pagination float-right"></ul>
+                      </nav>
+                    </div>
+                  </td>
+                </tr>
+              </tfoot>
+              {% endif %}
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- ============================================================== -->
+    {% endblock content %}

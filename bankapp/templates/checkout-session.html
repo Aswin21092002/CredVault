@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+  <!-- meta tag --> {% load static %}
+  <meta charset="utf-8">
+  <title>CrediVault Business Solutions</title>
+  <meta name="description" content="">
+  <!-- responsive tag -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- favicon -->
+  <script src="https://js.stripe.com/v3/"></script> <!-- new -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="{% static 'bank/assets/images/Favicon Transparent.ico">
+  <!-- Bootstrap v4.4.1 css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/bootstrap.min.css' %}">
+  <!-- font-awesome css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/font-awesome.min.css' %}">
+  <!-- animate css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/animate.css' %}">
+  <!-- aos css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/aos.css' %}">
+  <!-- owl.carousel css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/owl.carousel.css' %}">
+  <!-- slick css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/slick.css' %}">
+  <!-- off canvas css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/off-canvas.css' %}">
+  <!-- linea-font css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/fonts/linea-fonts.css' %}">
+  <!-- flaticon css  -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/fonts/flaticon.css' %}">
+  <!-- magnific popup css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/magnific-popup.css' %}">
+  <!-- Main Menu css -->
+  <link rel="stylesheet" href="{% static 'bank/assets/css/rsmenu-main.css' %}">
+  <!-- nivo slider CSS -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/inc/custom-slider/css/nivo-slider.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/inc/custom-slider/css/preview.css' %}">
+  <!-- rsmenu transitions css -->
+  <link rel="stylesheet" href="{% static 'bank/assets/css/rsmenu-transitions.css' %}">
+  <!-- spacing css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/rs-spacing.css' %}">
+  <!-- style css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/style.css' %}">
+  <!-- This stylesheet dynamically changed from style.less -->
+  <!-- responsive css -->
+  <link rel="stylesheet" type="text/css" href="{% static 'bank/assets/css/responsive.css' %}">
+</head>
+<body>
+  <!-- Preloader area start here -->
+  <div id="loader" class="loader">
+    <div class="spinner"></div>
+  </div>
+  <!--End preloader here -->
+  <!--Full width header Start-->
+  <div class="full-width-header">
+    <!--Header Start-->
+    <header id="rs-header" class="rs-header">
+      <!-- Menu Start -->
+      <div class="menu-area menu-sticky">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3">
+              <div class="logo-area">
+                <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/Transparent Logo1.png' %}"
+                    alt="logo"></a>
+              </div>
+            </div>
+            <div class="col-lg-9 text-right">
+              <div class="rs-menu-area">
+                <div class="main-menu">
+                  <div class="mobile-menu">
+                    <a class="rs-menu-toggle">
+                      <i class="fa fa-bars"></i>
+                    </a>
+                  </div>
+                  <nav class="rs-menu pr-65">
+                    <ul class="nav-menu">
+                      <li class="rs-mega-menu mega-rs "> <a href="{% url 'index' %}">Home</a>
+                      </li>
+                      <li class="">
+                        <a href="{% url 'about' %}">About</a>
+                      </li>
+                      <li class="">
+                        <a href="{% url 'business' %}">Business Services</a>
+                      </li>
+                      <li class="">
+                        <a href="{% url 'account' %}">My Account</a>
+                      </li>
+                      <li class="">
+                        <a href="https://www.leadsdatabasesoftware.com/" target="_blank">Leads Database</a>
+                      </li>
+                      <li class="">
+                        <a href="{% url 'contact' %}">Contact</a>
+                      </li>
+                    </ul> <!-- //.nav-menu -->
+                  </nav>
+                </div> <!-- //.main-menu -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Menu End -->
+      <!-- Canvas Menu start -->
+      <nav class="right_menu_togle hidden-md">
+        <div class="close-btn">
+          <span id="nav-close" class="humburger">
+            <span class="dot1"></span>
+            <span class="dot2"></span>
+            <span class="dot3"></span>
+            <span class="dot4"></span>
+            <span class="dot5"></span>
+            <span class="dot6"></span>
+            <span class="dot7"></span>
+            <span class="dot8"></span>
+            <span class="dot9"></span>
+          </span>
+        </div>
+        <div class="canvas-logo">
+          <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/logo-dark.png' %}" alt="logo"></a>
+        </div>
+        <div class="offcanvas-text">
+          <p>Consectetur adipiscing elit. Duis at dictum risus, non suscip it arcu. Quisque aliquam posuere tortor
+            aliquam posuere tortor develop database.</p>
+        </div>
+        <div class="canvas-contact">
+          <ul class="contact">
+            <li><i class="flaticon-location"></i> 374 William S Canning Blvd, Fall River MA 2721, USA</li>
+            <li><i class="flaticon-call"></i><a href="tel:+880155-69569">(+880)155-69569</a></li>
+            <li><i class="flaticon-email"></i><a href="mailto:support@rstheme.com">support@rstheme.com</a></li>
+            <li><i class="flaticon-clock"></i>10:00 - 17:00</li>
+          </ul>
+          <ul class="social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- Canvas Menu end -->
+    </header>
+    <!--Header End-->
+  </div>
+  <!--Full width header End-->
+  <!-- Main content Start -->
+  <div class="main-content">
+    <!-- Breadcrumbs Section Start -->
+    <!-- Breadcrumbs Section End -->
+    <!-- About Section Start -->
+    <div class="rs-about inner pt-100 lg-pt-92 md-pt-80 pb-100 md-pb-80">
+      <div class="container">
+        <div class="row y-middle mb-64 lg-mb-30 md-mb-0">
+          <div class="col-lg-6 pl-50 md-pl-15 pr-50 lg-pr-15">
+            <div class="mb-25">
+              <div class="desc">
+                <br><br>
+                <h2>Confirm Payment</h2>
+                <p>
+                  {{plan.plan_name}}
+                </p>
+                <p>
+                  <h2>${{plan.price}} / <sub>{{plan.time}}</sub></h2>
+                </p>
+                <br><br>
+              </div>
+            </div>
+            <div class="btn-part">
+              <button type="button" class="readon" id="submitBtn" >Confirm Payment</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About Section End -->
+  </div>
+  <!-- Main content End -->
+  <!-- Footer Start -->
+  <footer id="rs-footer" class="rs-footer">
+    <div class="container">
+      <div class="footer-content pt-62 pb-79 md-pb-64 sm-pt-48">
+        <div class="row">
+          <div class="col-lg-6 col-md-12 col-sm-12 footer-widget md-mb-39">
+            <div class="about-widget pr-15">
+              <div class="logo-part">
+                <a href="{% url 'index' %}"><img src="{% static 'bank/assets/images/logo1.png' %}"
+                    alt="Footer Logo"></a>
+              </div>
+              <p class="desc">Sendesta can provide you access to USA-based millions of businesses credit information
+                within seconds. We offer multiple plans that you can purchase and can get access to reports. Our plans
+                offer you many levels of details — from presenting the basic facts of a business to detailed business
+                credit, payment, and public record histories — in an easy-to-read format.</p>
+              <div class="btn-part">
+                <button class="readon" id="submitBtn">Discover More</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-12 col-sm-12 md-mb-32 footer-widget">
+            <h4 class="widget-title">Contact Info</h4>
+            <ul class="address-widget pr-40">
+              {% comment %} <li>
+                <i class="flaticon-call"></i>
+                <div class="desc">
+                  <a href="tel:+8882735916">(888) 273-5916</a>
+                </div>
+              </li> {% endcomment %}
+              <li>
+                <i class="flaticon-email"></i>
+                <div class="desc">
+                  <a href="mailto:info@sendesta.com">info@sendesta.com</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="row y-middle">
+          <div class="col-lg-6 col-md-8 sm-mb-21">
+            <div class="copyright">
+              <p>© Copyright 2021 Sendesta. All Rights Reserved.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer End -->
+  <!-- start scrollUp  -->
+  <div id="scrollUp">
+    <i class="fa fa-angle-up"></i>
+  </div>
+  <script type="text/javascript">
+    fetch("/config/")
+      .then((result) => { return result.json(); })
+      .then((data) => {
+        // Initialize Stripe.js
+        const stripe = Stripe(data.publicKey);
+  
+        // new
+        // Event handler
+        let plan_id = '{{plan.id}}'
+        let submitBtn = document.querySelector("#submitBtn");
+        if (submitBtn !== null) {
+          submitBtn.addEventListener("click", () => {
+            // Get Checkout Session ID
+            fetch(`/create-checkout-session/${plan_id}/`)
+              .then((result) => { return result.json(); })
+              .then((data) => {
+                console.log(data);
+                // Redirect to Stripe Checkout
+                return stripe.redirectToCheckout({ sessionId: data.sessionId })
+              })
+              .then((res) => {
+              });
+          });
+        }
+      });
+  </script>
+  <!-- End scrollUp  -->
+  <!-- modernizr js -->
+  <script src="{% static 'bank/assets/js/modernizr-2.8.3.min.js' %}"></script>
+  <!-- jquery latest version -->
+  <script src="{% static 'bank/assets/js/jquery.min.js' %}"></script>
+  <!-- Bootstrap v4.4.1 js -->
+  <script src="{% static 'bank/assets/js/bootstrap.min.js' %}"></script>
+  <!-- Menu js -->
+  <script src="{% static 'bank/assets/js/rsmenu-main.js' %}"></script>
+  <!-- op nav js -->
+  <script src="{% static 'bank/assets/js/jquery.nav.js' %}"></script>
+  <!-- owl.carousel js -->
+  <script src="{% static 'bank/assets/js/owl.carousel.min.js' %}"></script>
+  <!-- Slick js -->
+  <script src="{% static 'bank/assets/js/slick.min.js' %}"></script>
+  <!-- isotope.pkgd.min js -->
+  <script src="{% static 'bank/assets/js/isotope.pkgd.min.js' %}"></script>
+  <!-- imagesloaded.pkgd.min js -->
+  <script src="{% static 'bank/assets/js/imagesloaded.pkgd.min.js' %}"></script>
+  <!-- wow js -->
+  <script src="{% static 'bank/assets/js/wow.min.js' %}"></script>
+  <!-- aos js -->
+  <script src="{% static 'bank/assets/js/aos.js' %}"></script>
+  <!-- Skill bar js -->
+  <script src="{% static 'bank/assets/js/skill.bars.jquery.js' %}"></script>
+  <script src="{% static 'bank/assets/js/jquery.counterup.min.js' %}"></script>
+  <!-- counter top js -->
+  <script src="{% static 'bank/assets/js/waypoints.min.js' %}"></script>
+  <!-- video js -->
+  <script src="{% static 'bank/assets/js/jquery.mb.YTPlayer.min.js' %}"></script>
+  <!-- magnific popup js -->
+  <script src="{% static 'bank/assets/js/jquery.magnific-popup.min.js' %}"></script>
+  <!-- Nivo slider js -->
+  <script src="{% static 'bank/assets/inc/custom-slider/js/jquery.nivo.slider.js' %}"></script>
+  <!-- plugins js -->
+  <script src="{% static 'bank/assets/js/plugins.js' %}"></script>
+  <!-- parallax-effect js -->
+  <script src="{% static 'bank/assets/js/parallax-effect.min.js' %}"></script>
+  <!-- contact form js -->
+  <script src="{% static 'bank/assets/js/contact.form.js' %}"></script>
+  <!-- ProgressBar Js -->
+  <script src="{% static 'bank/assets/js/jQuery-plugin-progressbar.js' %}"></script>
+  <!-- main js -->
+  <script src="{% static 'bank/assets/js/main.js' %}"></script>
+</body>
+</html>

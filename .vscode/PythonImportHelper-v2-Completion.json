@@ -1,0 +1,3029 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "stripe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stripe",
+        "description": "stripe",
+        "detail": "stripe",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_dict",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "require_POST",
+        "importPath": "django.views.decorators.http",
+        "description": "django.views.decorators.http",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.http",
+        "documentation": {}
+    },
+    {
+        "label": "CompanyInformation",
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "isExtraImport": true,
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "importPath": "fuzzywuzzy",
+        "description": "fuzzywuzzy",
+        "isExtraImport": true,
+        "detail": "fuzzywuzzy",
+        "documentation": {}
+    },
+    {
+        "label": "serialize",
+        "importPath": "django.core.serializers",
+        "description": "django.core.serializers",
+        "isExtraImport": true,
+        "detail": "django.core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.geometry",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.geometry",
+        "description": "shapely.geometry",
+        "detail": "shapely.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.wkb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.wkb",
+        "description": "shapely.wkb",
+        "detail": "shapely.wkb",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.affinity",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.affinity",
+        "description": "shapely.affinity",
+        "detail": "shapely.affinity",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.ops",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.ops",
+        "description": "shapely.ops",
+        "detail": "shapely.ops",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "Grammar",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluableParseManager",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "SymbolTable",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Bind",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Grammar",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluableParseManager",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "SymbolTable",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Bind",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "booleano.operations",
+        "description": "booleano.operations",
+        "isExtraImport": true,
+        "detail": "booleano.operations",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "booleano.operations",
+        "description": "booleano.operations",
+        "isExtraImport": true,
+        "detail": "booleano.operations",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "anyjson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "anyjson",
+        "description": "anyjson",
+        "detail": "anyjson",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateProfileForm",
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "isExtraImport": true,
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserForm",
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "isExtraImport": true,
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "django_heroku",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_heroku",
+        "description": "django_heroku",
+        "detail": "django_heroku",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "stripe_webhook",
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "isExtraImport": true,
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetDoneView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetConfirmView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetCompleteView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeForm",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_session_auth_hash",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0001_initial",
+        "description": "bankapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Plan',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('plan_name', models.CharField(max_length=100)),",
+        "detail": "bankapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0002_plan_price",
+        "description": "bankapp.migrations.0002_plan_price",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('bankapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='plan',\n            name='price',\n            field=models.IntegerField(default=0),\n        ),",
+        "detail": "bankapp.migrations.0002_plan_price",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0003_plan_valid",
+        "description": "bankapp.migrations.0003_plan_valid",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('bankapp', '0002_plan_price'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='plan',\n            name='valid',\n            field=models.CharField(default='monthly', max_length=100),\n        ),",
+        "detail": "bankapp.migrations.0003_plan_valid",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0004_plan_time",
+        "description": "bankapp.migrations.0004_plan_time",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('bankapp', '0003_plan_valid'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='plan',\n            name='time',\n            field=models.CharField(default='month', max_length=100),\n        ),",
+        "detail": "bankapp.migrations.0004_plan_time",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0005_stripecustomer",
+        "description": "bankapp.migrations.0005_stripecustomer",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('bankapp', '0004_plan_time'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='StripeCustomer',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "bankapp.migrations.0005_stripecustomer",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0006_alter_stripecustomer_stripesubscriptionid",
+        "description": "bankapp.migrations.0006_alter_stripecustomer_stripesubscriptionid",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"bankapp\", \"0005_stripecustomer\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"stripecustomer\",\n            name=\"stripeSubscriptionId\",\n            field=models.CharField(blank=True, max_length=255, null=True),\n        ),",
+        "detail": "bankapp.migrations.0006_alter_stripecustomer_stripesubscriptionid",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0007_alter_stripecustomer_stripesubscriptionid",
+        "description": "bankapp.migrations.0007_alter_stripecustomer_stripesubscriptionid",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"bankapp\", \"0006_alter_stripecustomer_stripesubscriptionid\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"stripecustomer\",\n            name=\"stripeSubscriptionId\",\n            field=models.CharField(blank=True, default=None, max_length=255, null=True),\n        ),",
+        "detail": "bankapp.migrations.0007_alter_stripecustomer_stripesubscriptionid",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bankapp.migrations.0008_candownloadreport",
+        "description": "bankapp.migrations.0008_candownloadreport",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"dashboard\", \"0003_alter_companyinformation_user\"),\n        (\"bankapp\", \"0007_alter_stripecustomer_stripesubscriptionid\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"CanDownloadReport\",\n            fields=[",
+        "detail": "bankapp.migrations.0008_candownloadreport",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "bankapp.admin",
+        "description": "bankapp.admin",
+        "peekOfCode": "admin.site.site_header = 'Sendesta | Admin'\nadmin.site.index_title = 'Sendesta'\nadmin.site.site_title = 'Admin'\nfrom .models import Plan ,StripeCustomer, CanDownloadReport\nadmin.site.register(Plan)\nadmin.site.register(StripeCustomer)\nadmin.site.register(CanDownloadReport)",
+        "detail": "bankapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.index_title",
+        "kind": 5,
+        "importPath": "bankapp.admin",
+        "description": "bankapp.admin",
+        "peekOfCode": "admin.site.index_title = 'Sendesta'\nadmin.site.site_title = 'Admin'\nfrom .models import Plan ,StripeCustomer, CanDownloadReport\nadmin.site.register(Plan)\nadmin.site.register(StripeCustomer)\nadmin.site.register(CanDownloadReport)",
+        "detail": "bankapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "bankapp.admin",
+        "description": "bankapp.admin",
+        "peekOfCode": "admin.site.site_title = 'Admin'\nfrom .models import Plan ,StripeCustomer, CanDownloadReport\nadmin.site.register(Plan)\nadmin.site.register(StripeCustomer)\nadmin.site.register(CanDownloadReport)",
+        "detail": "bankapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BankappConfig",
+        "kind": 6,
+        "importPath": "bankapp.apps",
+        "description": "bankapp.apps",
+        "peekOfCode": "class BankappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'bankapp'\n    def ready(self):\n        import bankapp.signals",
+        "detail": "bankapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "kind": 6,
+        "importPath": "bankapp.models",
+        "description": "bankapp.models",
+        "peekOfCode": "class Plan(models.Model):\n    plan_name = models.CharField(max_length=100)\n    stripe_id = models.CharField(max_length=100)\n    price = models.IntegerField(default=0)\n    time = models.CharField(max_length=100, default=\"month\")\n    valid = models.CharField(max_length=100, default=\"monthly\")\n    def __str__(self):\n        return self.plan_name\nclass StripeCustomer(models.Model):\n    user = models.OneToOneField(",
+        "detail": "bankapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "StripeCustomer",
+        "kind": 6,
+        "importPath": "bankapp.models",
+        "description": "bankapp.models",
+        "peekOfCode": "class StripeCustomer(models.Model):\n    user = models.OneToOneField(\n        User, on_delete=models.CASCADE, related_name=\"userstripe\"\n    )\n    stripeCustomerId = models.CharField(max_length=255)\n    stripeSubscriptionId = models.CharField(\n        max_length=255, default=None, null=True, blank=True\n    )\n    def __str__(self):\n        return self.user.username",
+        "detail": "bankapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CanDownloadReport",
+        "kind": 6,
+        "importPath": "bankapp.models",
+        "description": "bankapp.models",
+        "peekOfCode": "class CanDownloadReport(models.Model):\n    user = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"can_download\"\n    )\n    company_information = models.ForeignKey(\n        \"dashboard.companyinformation\",\n        on_delete=models.CASCADE,\n        related_name=\"can_download\",\n    )\n    def __str__(self):",
+        "detail": "bankapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_profile",
+        "kind": 2,
+        "importPath": "bankapp.signals",
+        "description": "bankapp.signals",
+        "peekOfCode": "def create_user_profile(sender, instance, created, **kwargs):\n    if created:\n        stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY\n        stripe_user_account = stripe.Customer.create(\n            email=instance.email,\n            name=f\"{instance.username}\"\n        )\n        stripe_user_account_id = stripe_user_account[\"id\"]\n        StripeCustomer.objects.create(user=instance, stripeCustomerId=stripe_user_account_id)",
+        "detail": "bankapp.signals",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "bankapp.urls",
+        "description": "bankapp.urls",
+        "peekOfCode": "urlpatterns = [\n  path('',views.Index,name='index'),\n  path('get-relevant-companies/',views.GetRelevantCompanies,name='get_relevant_companies'),\n  path('download-report/<int:id>/',views.DownloadReport,name='download_report'),\n  path('business/',views.BusinessServices,name='business'),\n  path('legal/',views.Legal,name='legal'),\n  path('contact/',views.Contact,name='contact'),\n  path('about/',views.About,name='about'),\n  path('account',views.Account,name='account'),\n  path('register/<int:id>/',views.AccountWithPay,name='register'),",
+        "detail": "bankapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate_a_checkout_to_download_this_report",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def generate_a_checkout_to_download_this_report(request, company_info):\n    stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY\n    domain_url = \"http://localhost:8000/\"\n    # Create a PaymentIntent with the amount and currency\n    checkout_session = stripe.checkout.Session.create(\n        customer=request.user.userstripe.stripeCustomerId\n        if request.user.is_authenticated\n        else None,\n        payment_method_types=['card'],\n        line_items=[{",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_requested_report",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def get_user_requested_report(request, user, state, company, city, personal_or_other, hidden_id_input):\n    context = {}\n    try:\n        print('found it using hidden id', hidden_id_input, type(hidden_id_input))\n        if (hidden_id_input):\n            hidden_id_input = int(hidden_id_input)\n            company_info = CompanyInformation.objects.get(id=hidden_id_input)\n            can_download_report = CanDownloadReport.objects.filter(user=user, company_information=company_info)\n            if can_download_report:\n                return redirect(f\"/download-report/{company_info.id}\")",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Index(request):\n    context = {}\n    basic = Plan.objects.filter(plan_name=\"basic\")\n    pro = Plan.objects.filter(plan_name=\"professional\")\n    context[\"title\"] = \"Home\"\n    context[\"basic\"] = basic\n    context[\"pro\"] = pro\n    context[\"API_KEY\"] = settings.STRIPE_PUBLISHABLE_KEY\n    if request.method == \"GET\":\n        try:",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "GetRelevantCompanies",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def GetRelevantCompanies(request):\n    # Fetch all records from the database\n    data = request.POST\n    state = data.get(\"state\")\n    company = data.get(\"company\")\n    if company == \"\":\n        return JsonResponse({})\n    all_companies = CompanyInformation.objects.all()\n    # Use fuzzy matching to find similar states and business names\n    state_results = process.extract(state, [{\"state\": company.country_state.strip(), \"company\":company.business_name.strip(), \"id\": company.id} for company in all_companies], limit=5)",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DownloadReport",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def DownloadReport(request, id):    \n    context = {}\n    company_information = CompanyInformation.objects.get(id=id)\n    can_download_report = CanDownloadReport.objects.filter(user=request.user, company_information=company_information)\n    if can_download_report:\n        context = {}\n        context['report'] = model_to_dict(company_information)\n        context['trade_lines'] = []\n        context['maximum_credit_recommendations'] = []\n        all_trade_lines = company_information.user.current_tradelines.all()",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Products",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Products(request):\n    context = {}\n    context[\"title\"] = \"Products\"\n    return render(request, \"Products.html\", context)\ndef Legal(request):\n    context = {}\n    context[\"title\"] = \"Legal\"\n    return render(request, \"legal.html\", context)\ndef BusinessServices(request):\n    context = {}",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Legal",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Legal(request):\n    context = {}\n    context[\"title\"] = \"Legal\"\n    return render(request, \"legal.html\", context)\ndef BusinessServices(request):\n    context = {}\n    context[\"title\"] = \"Business Services\"\n    return render(request, \"businessservices.html\", context)\ndef Contact(request):\n    context = {}",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessServices",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def BusinessServices(request):\n    context = {}\n    context[\"title\"] = \"Business Services\"\n    return render(request, \"businessservices.html\", context)\ndef Contact(request):\n    context = {}\n    context[\"title\"] = \"Contact\"\n    return render(request, \"contact.html\", context)\ndef About(request):\n    return render(request, \"about.html\", {})",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Contact(request):\n    context = {}\n    context[\"title\"] = \"Contact\"\n    return render(request, \"contact.html\", context)\ndef About(request):\n    return render(request, \"about.html\", {})\ndef Account(request):\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already logged in\")\n        return redirect(\"dashboard\")",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "About",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def About(request):\n    return render(request, \"about.html\", {})\ndef Account(request):\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already logged in\")\n        return redirect(\"dashboard\")\n    if request.method == \"GET\":\n        global nxt\n        nxt = request.GET.get(\"next\")\n    if request.method == \"POST\":",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Account(request):\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already logged in\")\n        return redirect(\"dashboard\")\n    if request.method == \"GET\":\n        global nxt\n        nxt = request.GET.get(\"next\")\n    if request.method == \"POST\":\n        username = request.POST.get(\"username\")\n        password = request.POST.get(\"password\")",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountWithPay",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def AccountWithPay(request, id):\n    plan = Plan.objects.get(id=id)\n    if request.method == \"POST\":\n        data = json.loads(request.body.decode(\"utf-8\"))\n        data = data.get(\"data\")\n        user_created = User.objects.create(\n            username=data.get(\"username\"),\n            password=data.get(\"password\"),\n            email=data.get(\"email\"),\n            first_name=data.get(\"name\"),",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "stripe_config",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def stripe_config(request):\n    if request.method == \"GET\":\n        stripe_config = {\"publicKey\": settings.STRIPE_SECRET_KEY}\n        return JsonResponse(stripe_config, safe=False)\n@login_required\ndef MakePayment(request, id):\n    if request.method == \"GET\":\n        plan = Plan.objects.get(id=id)\n        domain_url = \"http://localhost:8000/\"\n        stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "MakePayment",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def MakePayment(request, id):\n    if request.method == \"GET\":\n        plan = Plan.objects.get(id=id)\n        domain_url = \"http://localhost:8000/\"\n        stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY\n        try:\n            checkout_session = stripe.checkout.Session.create(\n                customer=request.user.userstripe.stripeCustomerId\n                if request.user.is_authenticated\n                else None,",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "MakePaymentView",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def MakePaymentView(request, id):\n    plan = Plan.objects.get(id=id)\n    context = {}\n    context[\"plan\"] = plan\n    return render(request, \"checkout-session.html\", context)\ndef Success(request):\n    request.user.userprofile.paid = True\n    request.user.userprofile.save()\n    return redirect(\"dashboard\")\n# stripe.exe listen --forward-to http://localhost:8000/stripe_webhook",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Success",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def Success(request):\n    request.user.userprofile.paid = True\n    request.user.userprofile.save()\n    return redirect(\"dashboard\")\n# stripe.exe listen --forward-to http://localhost:8000/stripe_webhook\n@require_POST\n@csrf_exempt\ndef stripe_webhook(request):\n    try:\n        stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "stripe_webhook",
+        "kind": 2,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "def stripe_webhook(request):\n    try:\n        stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY\n        endpoint_secret = settings.STRIPE_ENDPOINT_SECRET\n        payload = request.body\n        sig_header = request.META[\"HTTP_STRIPE_SIGNATURE\"]\n        event = None\n        try:\n            event = stripe.Webhook.construct_event(payload, sig_header, endpoint_secret)\n        except ValueError as e:",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "bankapp.views",
+        "description": "bankapp.views",
+        "peekOfCode": "stripe.api_key = settings.STRIPE_SECRET_KEY\n# Create your views here.\ndef generate_a_checkout_to_download_this_report(request, company_info):\n    stripe.api_key = settings.STRIPE_PUBLISHABLE_KEY\n    domain_url = \"http://localhost:8000/\"\n    # Create a PaymentIntent with the amount and currency\n    checkout_session = stripe.checkout.Session.create(\n        customer=request.user.userstripe.stripeCustomerId\n        if request.user.is_authenticated\n        else None,",
+        "detail": "bankapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dashboard.migrations.0001_initial",
+        "description": "dashboard.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='YourCurrentTradelines',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "dashboard.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dashboard.migrations.0002_dispute",
+        "description": "dashboard.migrations.0002_dispute",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('dashboard', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Dispute',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "dashboard.migrations.0002_dispute",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dashboard.migrations.0003_alter_companyinformation_user",
+        "description": "dashboard.migrations.0003_alter_companyinformation_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"dashboard\", \"0002_dispute\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"companyinformation\",\n            name=\"user\",\n            field=models.ForeignKey(",
+        "detail": "dashboard.migrations.0003_alter_companyinformation_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dashboard.migrations.0004_companyinformation_country_state_and_more",
+        "description": "dashboard.migrations.0004_companyinformation_country_state_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"dashboard\", \"0003_alter_companyinformation_user\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"companyinformation\",\n            name=\"country_state\",\n            field=models.CharField(default=\"california\", max_length=100),\n            preserve_default=False,",
+        "detail": "dashboard.migrations.0004_companyinformation_country_state_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "dashboard.migrations.0005_alter_sendestascore_user_and_more",
+        "description": "dashboard.migrations.0005_alter_sendestascore_user_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"dashboard\", \"0004_companyinformation_country_state_and_more\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"sendestascore\",\n            name=\"user\",\n            field=models.ForeignKey(",
+        "detail": "dashboard.migrations.0005_alter_sendestascore_user_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Map",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "class Map:\n  def __init__(self, name, language):\n    self.paths = {}\n    self.name = name\n    self.language = language\n    self.width = 0\n    self.height = 0\n    self.bbox = []\n  def addPath(self, path, code, name):\n    self.paths[code] = {\"path\": path, \"name\": name}",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "Converter",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "class Converter:\n  def __init__(self, config):\n    args = {\n      'buffer_distance': -0.4,\n      'simplify_tolerance': 0.2,\n      'longitude0': 0,\n      'projection': 'mill',\n      'name': 'world',\n      'width': 900,\n      'language': 'en',",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "args = {}\nif len(sys.argv) > 1:\n  paramsJson = open(sys.argv[1], 'r').read()\nelse:\n  paramsJson = sys.stdin.read()\nparamsJson = json.loads(paramsJson)\nconverter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "paramsJson",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "paramsJson = json.loads(paramsJson)\nconverter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "converter",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "converter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "Map",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Map:\n  def __init__(self, name, language):\n    self.paths = {}\n    self.name = name\n    self.language = language\n    self.width = 0\n    self.height = 0\n    self.bbox = []\n  def addPath(self, path, code, name):\n    self.paths[code] = {\"path\": path, \"name\": name}",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Converter",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Converter:\n  def __init__(self, config):\n    args = {\n      'buffer_distance': -0.4,\n      'simplify_tolerance': 0.2,\n      'longitude0': 0,\n      'projection': 'mill',\n      'name': 'world',\n      'width': 900,\n      'left': 0,",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Geometry",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Geometry:\n  def __init__(self, geometry, properties):\n    self.geom = geometry\n    self.properties = properties\nclass GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "GeometryProperty",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value\n  def belongs_to(self, value, context):\n    return value in context[self.name]\n  def is_subset(self, value, context):\n    return set(value).issubset(set(context[self.name]))",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "DataSource",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class DataSource:\n  def __init__(self, config):\n    default_config = {\n      \"projection\": \"merc\",\n      \"longitude0\": 0\n    }\n    default_config.update(config)\n    self.config = default_config\n    self.spatialRef = osr.SpatialReference()\n    projString = '+proj='+str(self.config['projection'])+' +a=6381372 +b=6381372 +lat_0=0'",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "PolygonSimplifier",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class PolygonSimplifier:\n  def __init__(self, geometries):\n    self.format = '%.8f %.8f'\n    self.tolerance = 0.05\n    self.geometries = geometries\n    connections = {}\n    counter = 0\n    for geom in geometries:\n      counter += 1\n      polygons = []",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Processor",
+        "kind": 6,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Processor:\n  def __init__(self, config):\n    self.config = config\n  def process(self):\n    self.data_sources = {}\n    for action in self.config:\n      getattr(self, action['name'])( action, self.data_sources.get(\".\") )\n  def read_data(self, config, data_source):\n    self.data_sources[\".\"] = DataSource( config )\n    self.data_sources[\".\"].load_data()",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "args = {}\nif len(sys.argv) > 1:\n  paramsJson = open(sys.argv[1], 'r').read()\nelse:\n  paramsJson = sys.stdin.read()\nparamsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "paramsJson",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "paramsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "processor",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "processor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "simplifyRing",
+        "kind": 2,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "def simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1\n    isPivot = ((len(connections[pointStr]) > 2) or (pointStr in pivotPoints))\n  pointIndex = pointIndex - 1",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "simplifyPolygon",
+        "kind": 2,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "def simplifyPolygon(polygon):\n  simpleExtRing = simplifyRing(polygon.exterior)\n  if simpleExtRing is None:\n    return None\n  simpleIntRings = []\n  for ring in polygon.interiors:\n    simpleIntRing = simplifyRing(ring)\n    if simpleIntRing is not None:\n      simpleIntRings.append(simpleIntRing)\n  return shapely.geometry.Polygon(simpleExtRing, simpleIntRings)",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "format",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "format = '%.8f %.8f'\ntolerance = 0.01\ninfile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "tolerance",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "tolerance = 0.01\ninfile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "infile",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "infile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "outfile",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "outfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_ds",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_layer",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_defn",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_driver",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_ds",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_layer",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )\n    shp_layer.CreateField( fd )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_field_count",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )\n    shp_layer.CreateField( fd )\n# Load geometries\ngeometries = []\nfor feature in in_layer:",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "geometries",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "geometries = []\nfor feature in in_layer:\n  geometry = feature.GetGeometryRef()\n  geometryType = geometry.GetGeometryType()\n  if geometryType == ogr.wkbPolygon or geometryType == ogr.wkbMultiPolygon:\n    shapelyGeometry = shapely.wkb.loads( geometry.ExportToWkb() )\n    #if not shapelyGeometry.is_valid:\n      #buffer to fix selfcrosses\n      #shapelyGeometry = shapelyGeometry.buffer(0)\n    if shapelyGeometry:",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "start = int(round(time.time() * 1000))\n# Simplification\npoints = []\nconnections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "points",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "points = []\nconnections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "connections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "counter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)\n  for polygon in polygons:",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "simplifiedLines",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "simplifiedLines = {}\npivotPoints = {}\ndef simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "pivotPoints",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "pivotPoints = {}\ndef simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1\n    isPivot = ((len(connections[pointStr]) > 2) or (pointStr in pivotPoints))",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "results = []\nfor geom in geometries:\n  polygons = []\n  simplePolygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)\n  for polygon in polygons:",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_feat",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_feat = in_layer.GetNextFeature()\ncounter = 0\nwhile in_feat is not None:\n  if results[counter] is not None:\n    out_feat = ogr.Feature( feature_def = shp_layer.GetLayerDefn() )\n    out_feat.SetFrom( in_feat )\n    out_feat.SetGeometryDirectly(\n      ogr.CreateGeometryFromWkb(\n        shapely.wkb.dumps(\n          results[counter]",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 5,
+        "importPath": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "counter = 0\nwhile in_feat is not None:\n  if results[counter] is not None:\n    out_feat = ogr.Feature( feature_def = shp_layer.GetLayerDefn() )\n    out_feat.SetFrom( in_feat )\n    out_feat.SetGeometryDirectly(\n      ogr.CreateGeometryFromWkb(\n        shapely.wkb.dumps(\n          results[counter]\n        )",
+        "detail": "dashboard.static.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "DashboardConfig",
+        "kind": 6,
+        "importPath": "dashboard.apps",
+        "description": "dashboard.apps",
+        "peekOfCode": "class DashboardConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'dashboard'",
+        "detail": "dashboard.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CompanyInformation",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class CompanyInformation(models.Model):\n    \"\"\"\n    Company information\n    \"\"\"\n    user = models.ForeignKey(User,on_delete=models.CASCADE, related_name=\"business_info\")\n    business_name = models.CharField(max_length=100)\n    country_state = models.CharField(max_length=100)\n    sendesta_number = models.CharField(max_length=100)\n    email = models.EmailField()\n    anual_sales = models.CharField(max_length=100)",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "YourBusinessRecommendation",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class YourBusinessRecommendation(models.Model):\n    \"\"\"\n    Business recommendation\n    \"\"\"\n    name = models.CharField(max_length=100,default='You Do Not Have Any Current Recommendations')\n    user = models.ForeignKey(User,on_delete=models.CASCADE)\n    def __str__(self):\n        return self.name\nclass YourCurrentTradelines(models.Model):\n    \"\"\"",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "YourCurrentTradelines",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class YourCurrentTradelines(models.Model):\n    \"\"\"\n    Current TradeLines\n    \"\"\"\n    user = models.ForeignKey(User,on_delete=models.CASCADE, related_name=\"current_tradelines\")\n    business_name = models.CharField(max_length=100,default='You Do Not Have Any Current TradeLines')\n    email = models.EmailField()\n    phone = models.CharField(max_length=100)\n    tradeline_age = models.CharField(max_length=100)\n    tradeline_date = models.DateField(auto_now=False,auto_now_add=False)",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "SendestaScore",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class SendestaScore(models.Model):\n    \"\"\"\n    Sendesta Score\n    \"\"\"\n    user = models.ForeignKey(User,on_delete=models.CASCADE, related_name=\"maximum_credit_recommendation\")\n    score = models.IntegerField()\n    maximum_credit_recommendation = models.IntegerField()\n    def __str__(self):\n        return self.user.username\nclass BusinessReports(models.Model):",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessReports",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class BusinessReports(models.Model):\n    \"\"\"\n    Business Reports\n    \"\"\"\n    business_name = models.CharField(max_length=100)\n    report = models.CharField(max_length=100)\n    user = models.ForeignKey(User,on_delete=models.CASCADE)\n    def __str__(self):\n        return self.business_name\nclass UpdateYourCompanyInformation(models.Model):",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateYourCompanyInformation",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class UpdateYourCompanyInformation(models.Model):\n    \"\"\"\n    Update Your Company Information\n    \"\"\"\n    business_address = models.CharField(max_length=100)\n    anual_sales = models.CharField(max_length=100)\n    telephone = models.CharField(max_length=100)\n    employees = models.CharField(max_length=100)\n    line_of_business = models.CharField(max_length=100)\n    user = models.ForeignKey(User,on_delete=models.CASCADE)",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dispute",
+        "kind": 6,
+        "importPath": "dashboard.models",
+        "description": "dashboard.models",
+        "peekOfCode": "class Dispute(models.Model):\n    \"\"\"\n    Dispute\n    \"\"\"\n    business_name = models.CharField(max_length=100)\n    business_email = models.EmailField()\n    business_phone = models.CharField(max_length=100)\n    reason_of_dispute = models.CharField(max_length=500)\n    user = models.ForeignKey(User,on_delete=models.CASCADE)\n    def __str__(self):",
+        "detail": "dashboard.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dashboard.urls",
+        "description": "dashboard.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.index, name=\"dashboard\"),\n    path(\"inbox\", views.Inbox, name=\"inbox\"),\n    path(\"profile\", views.Profile, name=\"profile\"),\n    path(\"cancel-membership\", views.CancelMembership, name=\"cancel-membership\"),\n    path(\"upgrade-membership\", views.UpgradeMembership, name=\"upgrade-membership\"),\n    path(\"your-business-report\", views.YourBusinessReport, name=\"your-business-report\"),\n    path(\n        \"your-company-information\",\n        views.YourCompanyInformation,",
+        "detail": "dashboard.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def index(request):\n  score = SendestaScore.objects.filter(user=request.user).first()\n  recommendation = YourBusinessRecommendation.objects.filter(user=request.user)\n  context = {}\n  context['score'] = score\n  context['recommendation'] = recommendation\n  return render(request, 'dashboard/index.html',context)\n@login_required\ndef Inbox(request):\n  context = {}",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "Inbox",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def Inbox(request):\n  context = {}\n  return render(request, 'dashboard/inbox.html',context)\n@login_required\ndef Profile(request):\n  context = {}\n  user_profile, _ = UserProfile.objects.get_or_create(user=request.user)\n  context['form'] = UpdateUserForm(instance=request.user)\n  context['profile_form'] = UpdateProfileForm(\n        instance=request.user.userprofile)",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def Profile(request):\n  context = {}\n  user_profile, _ = UserProfile.objects.get_or_create(user=request.user)\n  context['form'] = UpdateUserForm(instance=request.user)\n  context['profile_form'] = UpdateProfileForm(\n        instance=request.user.userprofile)\n  if request.method == 'POST':\n      form = UpdateUserForm(request.POST, instance=request.user)\n      profile_form = UpdateProfileForm(\n            request.POST, instance=request.user.userprofile)",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "YourBusinessReport",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def YourBusinessReport(request):\n  context = {}\n  reports = BusinessReports.objects.filter(user=request.user)\n  context['reports'] = reports\n  return render(request, 'dashboard/businessreports.html',context)\n@login_required\ndef BusinessCreditReports(request):\n  reports = BusinessReports.objects.filter(user=request.user)\n  context = {}\n  context['reports'] = reports",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessCreditReports",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def BusinessCreditReports(request):\n  reports = BusinessReports.objects.filter(user=request.user)\n  context = {}\n  context['reports'] = reports\n  score = SendestaScore.objects.filter(user=request.user).first()\n  context['score'] = score\n  company = CompanyInformation.objects.filter(user=request.user).first()\n  context['company'] = company\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context['tradelines'] = tradelines",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "YourCompanyInformation",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def YourCompanyInformation(request):\n  company = CompanyInformation.objects.filter(user=request.user).first()\n  context = {}\n  context['company'] = company\n  return render(request, 'dashboard/yourcompanyinformation.html',context)\n@login_required\ndef YourBusinessTradelines(request):\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context = {}\n  context['tradelines'] = tradelines",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "YourBusinessTradelines",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def YourBusinessTradelines(request):\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context = {}\n  context['tradelines'] = tradelines\n  return render(request, 'dashboard/yourcurrentbusinesstradelines.html',context)\n@login_required\ndef AddBusinessTradelines(request):\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context = {}\n  context['tradelines'] = tradelines",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddBusinessTradelines",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def AddBusinessTradelines(request):\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context = {}\n  context['tradelines'] = tradelines\n  return render(request, 'dashboard/addbusinesstradelines.html',context)\n@login_required\ndef DisputeView(request):\n  context = {}\n  if request.method == 'POST':\n    business_name = request.POST.get('business_name')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "DisputeView",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def DisputeView(request):\n  context = {}\n  if request.method == 'POST':\n    business_name = request.POST.get('business_name')\n    business_email = request.POST.get('business_email')\n    business_phone = request.POST.get('business_phone')\n    reason_of_dispute = request.POST.get('reason_of_dispute')\n    Dispute.objects.create(\n      business_name = business_name,\n      business_email = business_email,",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCompanyInformation",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def UpdateCompanyInformation(request):\n  context = {}\n  company  = UpdateYourCompanyInformation.objects.filter(user=request.user).first()\n  context['company'] = company\n  return render(request, 'dashboard/updatecompanyinformation.html',context)\n@login_required\ndef CurrentBusinessTradelines(request):\n  context = {}\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context['tradelines'] = tradelines",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "CurrentBusinessTradelines",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def CurrentBusinessTradelines(request):\n  context = {}\n  tradelines = YourCurrentTradelines.objects.filter(user=request.user)\n  context['tradelines'] = tradelines\n  return render(request, 'dashboard/yourcurrentbusinesstradelines.html',context)\n@login_required\ndef CancelMembership(request):\n  request.user.userprofile.paid = False\n  request.user.userprofile.save()\n  return redirect('/dashboard/')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "CancelMembership",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def CancelMembership(request):\n  request.user.userprofile.paid = False\n  request.user.userprofile.save()\n  return redirect('/dashboard/')\n@login_required\ndef UpgradeMembership(request):\n  return redirect('/')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpgradeMembership",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def UpgradeMembership(request):\n  return redirect('/')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "sendesta.asgi",
+        "description": "sendesta.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "sendesta.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"aydh87oayd7ahsd87qwhdqyd82d-ad=q-d=qisduh87qydua!z+n)000yxhr=3+k*a^a)q8y=)em_%l#pff0jt0#z+=b$qf0\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nLOGIN_URL = \"/account/\"\n# Application definition",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "SECRET_KEY = \"aydh87oayd7ahsd87qwhdqyd82d-ad=q-d=qisduh87qydua!z+n)000yxhr=3+k*a^a)q8y=)em_%l#pff0jt0#z+=b$qf0\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"*\"]\nLOGIN_URL = \"/account/\"\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"*\"]\nLOGIN_URL = \"/account/\"\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"*\"]\nLOGIN_URL = \"/account/\"\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "LOGIN_URL = \"/account/\"\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    # downloaded packages",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    # downloaded packages\n    # pip install fuzzywuzzy\n    'fuzzywuzzy',",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"whitenoise.middleware.WhiteNoiseMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "ROOT_URLCONF = \"sendesta.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"sendesta.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# DATABASES[\"default\"] = dj_database_url.config(conn_max_age=600, ssl_require=True)",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# DATABASES[\"default\"] = dj_database_url.config(conn_max_age=600, ssl_require=True)\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# live",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# live\nSTRIPE_SECRET_KEY = \"pk_test_51LMQp6EbZM91ZLdPeHiF40bIZzOLGU3XtJIatnwPECZIA7B6z1FtT5mKMrJUE6y8eCuwnqzmKafAvjQ2hRgB9c5e00Xj2rspNT\"",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# live\nSTRIPE_SECRET_KEY = \"pk_test_51LMQp6EbZM91ZLdPeHiF40bIZzOLGU3XtJIatnwPECZIA7B6z1FtT5mKMrJUE6y8eCuwnqzmKafAvjQ2hRgB9c5e00Xj2rspNT\"\nSTRIPE_PUBLISHABLE_KEY = \"sk_test_51LMQp6EbZM91ZLdPkJJbwaclFyft6hNrvLdoD8Sbv71cYaESLRe7km5QmPMk0QLUWRsLDvNDRLo0MO7rqP0roKCn00kd4PNVqB\"",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "STATIC_URL = \"/static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# live\nSTRIPE_SECRET_KEY = \"pk_test_51LMQp6EbZM91ZLdPeHiF40bIZzOLGU3XtJIatnwPECZIA7B6z1FtT5mKMrJUE6y8eCuwnqzmKafAvjQ2hRgB9c5e00Xj2rspNT\"\nSTRIPE_PUBLISHABLE_KEY = \"sk_test_51LMQp6EbZM91ZLdPkJJbwaclFyft6hNrvLdoD8Sbv71cYaESLRe7km5QmPMk0QLUWRsLDvNDRLo0MO7rqP0roKCn00kd4PNVqB\"\nSTRIPE_ENDPOINT_SECRET = \"whsec_317d6bc527d3db1b6e6d40a9a06cbc63851d6c67f0e1176acd1abd5edee8aa67\"\n# STRIPE_SECRET_KEY = \"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\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_live_51NL8jGCXMn20P5iNNrUILc55jOvJNiXR4EELtrgHo1SvjuM1z3vv7Lf4R6d1LKyQ3igocEKgHN4rDqRQzTzw225800hS19S6b2\"",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\n# live\nSTRIPE_SECRET_KEY = \"pk_test_51LMQp6EbZM91ZLdPeHiF40bIZzOLGU3XtJIatnwPECZIA7B6z1FtT5mKMrJUE6y8eCuwnqzmKafAvjQ2hRgB9c5e00Xj2rspNT\"\nSTRIPE_PUBLISHABLE_KEY = \"sk_test_51LMQp6EbZM91ZLdPkJJbwaclFyft6hNrvLdoD8Sbv71cYaESLRe7km5QmPMk0QLUWRsLDvNDRLo0MO7rqP0roKCn00kd4PNVqB\"\nSTRIPE_ENDPOINT_SECRET = \"whsec_317d6bc527d3db1b6e6d40a9a06cbc63851d6c67f0e1176acd1abd5edee8aa67\"\n# STRIPE_SECRET_KEY = \"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\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_live_51NL8jGCXMn20P5iNNrUILc55jOvJNiXR4EELtrgHo1SvjuM1z3vv7Lf4R6d1LKyQ3igocEKgHN4rDqRQzTzw225800hS19S6b2\"\n# test\n# STRIPE_SECRET_KEY = \"sk_test_51JXU1sJtDhAmrBJDWJBzAkzWGakzexR7a5iLvsumY5EITEBnhZ1o8vW0dF261997gLKFVMX2EYZ4L3qCud8PXjkR00hhBDOIvB\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_test_51JXU1sJtDhAmrBJDgImxOEb35OhxnTuYSASsfol7xaDFFm2MfgCZOpsICDTgY5le9AdtnJ8JIkugKcCGqtxFJydz00VPli5F8E\"",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_SECRET_KEY",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "STRIPE_SECRET_KEY = \"pk_test_51LMQp6EbZM91ZLdPeHiF40bIZzOLGU3XtJIatnwPECZIA7B6z1FtT5mKMrJUE6y8eCuwnqzmKafAvjQ2hRgB9c5e00Xj2rspNT\"\nSTRIPE_PUBLISHABLE_KEY = \"sk_test_51LMQp6EbZM91ZLdPkJJbwaclFyft6hNrvLdoD8Sbv71cYaESLRe7km5QmPMk0QLUWRsLDvNDRLo0MO7rqP0roKCn00kd4PNVqB\"\nSTRIPE_ENDPOINT_SECRET = \"whsec_317d6bc527d3db1b6e6d40a9a06cbc63851d6c67f0e1176acd1abd5edee8aa67\"\n# STRIPE_SECRET_KEY = \"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\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_live_51NL8jGCXMn20P5iNNrUILc55jOvJNiXR4EELtrgHo1SvjuM1z3vv7Lf4R6d1LKyQ3igocEKgHN4rDqRQzTzw225800hS19S6b2\"\n# test\n# STRIPE_SECRET_KEY = \"sk_test_51JXU1sJtDhAmrBJDWJBzAkzWGakzexR7a5iLvsumY5EITEBnhZ1o8vW0dF261997gLKFVMX2EYZ4L3qCud8PXjkR00hhBDOIvB\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_test_51JXU1sJtDhAmrBJDgImxOEb35OhxnTuYSASsfol7xaDFFm2MfgCZOpsICDTgY5le9AdtnJ8JIkugKcCGqtxFJydz00VPli5F8E\"\nCRISPY_TEMPLATE_PACK = \"bootstrap4\"\ndjango_heroku.settings(locals())",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_PUBLISHABLE_KEY",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "STRIPE_PUBLISHABLE_KEY = \"sk_test_51LMQp6EbZM91ZLdPkJJbwaclFyft6hNrvLdoD8Sbv71cYaESLRe7km5QmPMk0QLUWRsLDvNDRLo0MO7rqP0roKCn00kd4PNVqB\"\nSTRIPE_ENDPOINT_SECRET = \"whsec_317d6bc527d3db1b6e6d40a9a06cbc63851d6c67f0e1176acd1abd5edee8aa67\"\n# STRIPE_SECRET_KEY = \"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\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_live_51NL8jGCXMn20P5iNNrUILc55jOvJNiXR4EELtrgHo1SvjuM1z3vv7Lf4R6d1LKyQ3igocEKgHN4rDqRQzTzw225800hS19S6b2\"\n# test\n# STRIPE_SECRET_KEY = \"sk_test_51JXU1sJtDhAmrBJDWJBzAkzWGakzexR7a5iLvsumY5EITEBnhZ1o8vW0dF261997gLKFVMX2EYZ4L3qCud8PXjkR00hhBDOIvB\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_test_51JXU1sJtDhAmrBJDgImxOEb35OhxnTuYSASsfol7xaDFFm2MfgCZOpsICDTgY5le9AdtnJ8JIkugKcCGqtxFJydz00VPli5F8E\"\nCRISPY_TEMPLATE_PACK = \"bootstrap4\"\ndjango_heroku.settings(locals())",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_ENDPOINT_SECRET",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "STRIPE_ENDPOINT_SECRET = \"whsec_317d6bc527d3db1b6e6d40a9a06cbc63851d6c67f0e1176acd1abd5edee8aa67\"\n# STRIPE_SECRET_KEY = \"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\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_live_51NL8jGCXMn20P5iNNrUILc55jOvJNiXR4EELtrgHo1SvjuM1z3vv7Lf4R6d1LKyQ3igocEKgHN4rDqRQzTzw225800hS19S6b2\"\n# test\n# STRIPE_SECRET_KEY = \"sk_test_51JXU1sJtDhAmrBJDWJBzAkzWGakzexR7a5iLvsumY5EITEBnhZ1o8vW0dF261997gLKFVMX2EYZ4L3qCud8PXjkR00hhBDOIvB\"\n# STRIPE_PUBLISHABLE_KEY = \"pk_test_51JXU1sJtDhAmrBJDgImxOEb35OhxnTuYSASsfol7xaDFFm2MfgCZOpsICDTgY5le9AdtnJ8JIkugKcCGqtxFJydz00VPli5F8E\"\nCRISPY_TEMPLATE_PACK = \"bootstrap4\"\ndjango_heroku.settings(locals())",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "sendesta.settings",
+        "description": "sendesta.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"bootstrap4\"\ndjango_heroku.settings(locals())",
+        "detail": "sendesta.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "sendesta.urls",
+        "description": "sendesta.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('bankapp.urls')),\n    path('accounts/', include('users.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path(\"stripe_webhook\", stripe_webhook),\n]",
+        "detail": "sendesta.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "sendesta.wsgi",
+        "description": "sendesta.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "sendesta.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Map",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "class Map:\n  def __init__(self, name, language):\n    self.paths = {}\n    self.name = name\n    self.language = language\n    self.width = 0\n    self.height = 0\n    self.bbox = []\n  def addPath(self, path, code, name):\n    self.paths[code] = {\"path\": path, \"name\": name}",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "Converter",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "class Converter:\n  def __init__(self, config):\n    args = {\n      'buffer_distance': -0.4,\n      'simplify_tolerance': 0.2,\n      'longitude0': 0,\n      'projection': 'mill',\n      'name': 'world',\n      'width': 900,\n      'language': 'en',",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "args = {}\nif len(sys.argv) > 1:\n  paramsJson = open(sys.argv[1], 'r').read()\nelse:\n  paramsJson = sys.stdin.read()\nparamsJson = json.loads(paramsJson)\nconverter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "paramsJson",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "paramsJson = json.loads(paramsJson)\nconverter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "converter",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "peekOfCode": "converter = Converter(paramsJson)\nconverter.convert(paramsJson['output_file'])",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.converter",
+        "documentation": {}
+    },
+    {
+        "label": "Map",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Map:\n  def __init__(self, name, language):\n    self.paths = {}\n    self.name = name\n    self.language = language\n    self.width = 0\n    self.height = 0\n    self.bbox = []\n  def addPath(self, path, code, name):\n    self.paths[code] = {\"path\": path, \"name\": name}",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Converter",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Converter:\n  def __init__(self, config):\n    args = {\n      'buffer_distance': -0.4,\n      'simplify_tolerance': 0.2,\n      'longitude0': 0,\n      'projection': 'mill',\n      'name': 'world',\n      'width': 900,\n      'left': 0,",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Geometry",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Geometry:\n  def __init__(self, geometry, properties):\n    self.geom = geometry\n    self.properties = properties\nclass GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "GeometryProperty",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value\n  def belongs_to(self, value, context):\n    return value in context[self.name]\n  def is_subset(self, value, context):\n    return set(value).issubset(set(context[self.name]))",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "DataSource",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class DataSource:\n  def __init__(self, config):\n    default_config = {\n      \"projection\": \"merc\",\n      \"longitude0\": 0\n    }\n    default_config.update(config)\n    self.config = default_config\n    self.spatialRef = osr.SpatialReference()\n    projString = '+proj='+str(self.config['projection'])+' +a=6381372 +b=6381372 +lat_0=0'",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "PolygonSimplifier",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class PolygonSimplifier:\n  def __init__(self, geometries):\n    self.format = '%.8f %.8f'\n    self.tolerance = 0.05\n    self.geometries = geometries\n    connections = {}\n    counter = 0\n    for geom in geometries:\n      counter += 1\n      polygons = []",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "Processor",
+        "kind": 6,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "class Processor:\n  def __init__(self, config):\n    self.config = config\n  def process(self):\n    self.data_sources = {}\n    for action in self.config:\n      getattr(self, action['name'])( action, self.data_sources.get(\".\") )\n  def read_data(self, config, data_source):\n    self.data_sources[\".\"] = DataSource( config )\n    self.data_sources[\".\"].load_data()",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "args = {}\nif len(sys.argv) > 1:\n  paramsJson = open(sys.argv[1], 'r').read()\nelse:\n  paramsJson = sys.stdin.read()\nparamsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "paramsJson",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "paramsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "processor",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "peekOfCode": "processor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.processor",
+        "documentation": {}
+    },
+    {
+        "label": "simplifyRing",
+        "kind": 2,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "def simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1\n    isPivot = ((len(connections[pointStr]) > 2) or (pointStr in pivotPoints))\n  pointIndex = pointIndex - 1",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "simplifyPolygon",
+        "kind": 2,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "def simplifyPolygon(polygon):\n  simpleExtRing = simplifyRing(polygon.exterior)\n  if simpleExtRing is None:\n    return None\n  simpleIntRings = []\n  for ring in polygon.interiors:\n    simpleIntRing = simplifyRing(ring)\n    if simpleIntRing is not None:\n      simpleIntRings.append(simpleIntRing)\n  return shapely.geometry.Polygon(simpleExtRing, simpleIntRings)",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "format",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "format = '%.8f %.8f'\ntolerance = 0.01\ninfile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "tolerance",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "tolerance = 0.01\ninfile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "infile",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "infile = '/Users/kirilllebedev/Maps/50m-admin-0-countries/ne_50m_admin_0_countries.shp'\noutfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "outfile",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "outfile = 'map.shp'\n# Open the datasource to operate on.\nin_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_ds",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_ds = ogr.Open( infile, update = 0 )\nin_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_layer",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_layer = in_ds.GetLayer( 0 )\nin_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_defn",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_defn = in_layer.GetLayerDefn()\n# Create output file with similar information.\nshp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_driver",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_driver = ogr.GetDriverByName( 'ESRI Shapefile' )\nif os.path.exists('map.shp'):\n  shp_driver.DeleteDataSource( outfile )\nshp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_ds",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_ds = shp_driver.CreateDataSource( outfile )\nshp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "shp_layer",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "shp_layer = shp_ds.CreateLayer( in_defn.GetName(),\n                                geom_type = in_defn.GetGeomType(),\n                                srs = in_layer.GetSpatialRef() )\nin_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )\n    shp_layer.CreateField( fd )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_field_count",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_field_count = in_defn.GetFieldCount()\nfor fld_index in range(in_field_count):\n    src_fd = in_defn.GetFieldDefn( fld_index )\n    fd = ogr.FieldDefn( src_fd.GetName(), src_fd.GetType() )\n    fd.SetWidth( src_fd.GetWidth() )\n    fd.SetPrecision( src_fd.GetPrecision() )\n    shp_layer.CreateField( fd )\n# Load geometries\ngeometries = []\nfor feature in in_layer:",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "geometries",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "geometries = []\nfor feature in in_layer:\n  geometry = feature.GetGeometryRef()\n  geometryType = geometry.GetGeometryType()\n  if geometryType == ogr.wkbPolygon or geometryType == ogr.wkbMultiPolygon:\n    shapelyGeometry = shapely.wkb.loads( geometry.ExportToWkb() )\n    #if not shapelyGeometry.is_valid:\n      #buffer to fix selfcrosses\n      #shapelyGeometry = shapelyGeometry.buffer(0)\n    if shapelyGeometry:",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "start = int(round(time.time() * 1000))\n# Simplification\npoints = []\nconnections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "points",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "points = []\nconnections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "connections = {}\ncounter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "counter = 0\nfor geom in geometries:\n  counter += 1\n  polygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)\n  for polygon in polygons:",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "simplifiedLines",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "simplifiedLines = {}\npivotPoints = {}\ndef simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "pivotPoints",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "pivotPoints = {}\ndef simplifyRing(ring):\n  coords = list(ring.coords)[0:-1]\n  simpleCoords = []\n  isPivot = False\n  pointIndex = 0\n  while not isPivot and pointIndex < len(coords):\n    pointStr = format % coords[pointIndex]\n    pointIndex += 1\n    isPivot = ((len(connections[pointStr]) > 2) or (pointStr in pivotPoints))",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "results = []\nfor geom in geometries:\n  polygons = []\n  simplePolygons = []\n  if isinstance(geom, shapely.geometry.Polygon):\n    polygons.append(geom)\n  else:\n    for polygon in geom:\n      polygons.append(polygon)\n  for polygon in polygons:",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "in_feat",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "in_feat = in_layer.GetNextFeature()\ncounter = 0\nwhile in_feat is not None:\n  if results[counter] is not None:\n    out_feat = ogr.Feature( feature_def = shp_layer.GetLayerDefn() )\n    out_feat.SetFrom( in_feat )\n    out_feat.SetGeometryDirectly(\n      ogr.CreateGeometryFromWkb(\n        shapely.wkb.dumps(\n          results[counter]",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 5,
+        "importPath": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "description": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "peekOfCode": "counter = 0\nwhile in_feat is not None:\n  if results[counter] is not None:\n    out_feat = ogr.Feature( feature_def = shp_layer.GetLayerDefn() )\n    out_feat.SetFrom( in_feat )\n    out_feat.SetGeometryDirectly(\n      ogr.CreateGeometryFromWkb(\n        shapely.wkb.dumps(\n          results[counter]\n        )",
+        "detail": "staticfiles.dashboard.assets.libs.jvectormap.converter.simplifier",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0002_alter_userprofile_user",
+        "description": "users.migrations.0002_alter_userprofile_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('users', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='user',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, related_name='userprofile', to=settings.AUTH_USER_MODEL),",
+        "detail": "users.migrations.0002_alter_userprofile_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0003_auto_20210905_0149",
+        "description": "users.migrations.0003_auto_20210905_0149",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0002_alter_userprofile_user'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='address',\n            field=models.CharField(blank=True, max_length=100, null=True),\n        ),",
+        "detail": "users.migrations.0003_auto_20210905_0149",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0004_userprofile_paid",
+        "description": "users.migrations.0004_userprofile_paid",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0003_auto_20210905_0149'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='paid',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "users.migrations.0004_userprofile_paid",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0005_alter_userprofile_country",
+        "description": "users.migrations.0005_alter_userprofile_country",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0004_userprofile_paid'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='country',\n            field=models.CharField(blank=True, choices=[('London', 'London'), ('Brazil', 'Brazil'), ('USA', 'USA'), ('Canada', 'Canada'), ('Thailand', 'Thailand')], max_length=100, null=True),\n        ),",
+        "detail": "users.migrations.0005_alter_userprofile_country",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class CreateUserForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = [\n            \"username\",\n            \"first_name\",\n            \"last_name\",\n            \"email\",\n            \"password1\",\n            \"password2\",",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class UpdateUserForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = [\"username\", \"first_name\", \"last_name\", \"email\"]\n        widgets = {\n            \"username\": forms.TextInput(attrs={\"required\": True}),\n            \"first_name\": forms.TextInput(attrs={\"required\": True}),\n            \"last_name\": forms.TextInput(attrs={\"required\": True}),\n            \"email\": forms.TextInput(attrs={\"required\": True}),\n        }",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateProfileForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class UpdateProfileForm(forms.ModelForm):\n    class Meta:\n        model = UserProfile\n        fields = [\"phone\", \"country\", \"city\", \"gender\", \"address\"]",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(\n        User, on_delete=models.CASCADE, related_name=\"userprofile\"\n    )\n    phone = models.CharField(max_length=20)\n    country = models.CharField(\n        max_length=100, choices=COUNTRY_CHOICES, null=True, blank=True\n    )\n    gender = models.CharField(max_length=10, null=True, blank=True)\n    city = models.CharField(max_length=50, null=True, blank=True)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "COUNTRY_CHOICES",
+        "kind": 5,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "COUNTRY_CHOICES = (\n    (\"London\", \"London\"),\n    (\"Brazil\", \"Brazil\"),\n    (\"USA\", \"USA\"),\n    (\"Canada\", \"Canada\"),\n    (\"Thailand\", \"Thailand\"),\n)\nclass UserProfile(models.Model):\n    user = models.OneToOneField(\n        User, on_delete=models.CASCADE, related_name=\"userprofile\"",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "urlpatterns = [\n    path('logout/',views.Logout,name='logout'),\n    path('sign-up/',views.SignUp,name='signup'),\n    path('edit-profile/',views.EditProfile,name='edit-profile'),\n    path('change-password/',views.ChangePassword,name='change-password'),\n    path('reset_password/',PasswordResetView.as_view(template_name='reset_password.html'),name='reset_password'),\n    path('reset_password_sent/',PasswordResetDoneView.as_view(template_name='password_reset_done.html'),name='password_reset_done'),\n    path('reset/<uidb64>/<token>/',PasswordResetConfirmView.as_view(),name='password_reset_confirm'),\n    path('reset_password_complete/',PasswordResetCompleteView.as_view(),name='password_reset_complete'),\n]",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def Profile(request):\n    context = {}\n    template_name = \"profile.html\"\n    context[\"title\"] = \"Profile\"\n    return render(request, template_name, context)\ndef Login(request):\n    context = {}\n    context[\"title\"] = \"Login\"\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already logged in\")",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def Login(request):\n    context = {}\n    context[\"title\"] = \"Login\"\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already logged in\")\n        return redirect(\"/\")\n    if request.method == \"GET\":\n        global nxt\n        nxt = request.GET.get(\"next\")\n    if request.method == \"POST\":",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "Logout",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def Logout(request):\n    logout(request)\n    return redirect(\"/\")\ndef SignUp(request):\n    context = {}\n    context[\"title\"] = \"Create Account\"\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already registered\")\n        return redirect(\"home\")\n    form = CreateUserForm()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUp",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def SignUp(request):\n    context = {}\n    context[\"title\"] = \"Create Account\"\n    if request.user.is_authenticated:\n        messages.info(request, \"You have been already registered\")\n        return redirect(\"home\")\n    form = CreateUserForm()\n    context[\"form\"] = form\n    if request.method == \"POST\":\n        form = CreateUserForm(request.POST)",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditProfile",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def EditProfile(request):\n    context = {}\n    template_name = \"edit-profile.html\"\n    context[\"title\"] = \"Edit Profile\"\n    form = UpdateUserForm(request.POST or None, instance=request.user)\n    context[\"form\"] = form\n    if request.method == \"POST\":\n        form = UpdateUserForm(request.POST, instance=request.user)\n        if form.is_valid():\n            form.save()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePassword",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def ChangePassword(request):\n    context = {}\n    template_name = \"changepassword.html\"\n    context[\"title\"] = \"Change Password\"\n    form = PasswordChangeForm(request.user)\n    context[\"form\"] = form\n    if request.method == \"POST\":\n        form = PasswordChangeForm(request.user, request.POST)\n        if form.is_valid():\n            user = form.save()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sendesta.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,51 @@
+{% extends "dashboard/base.html" %}
+{% block content %} {% load static %}
+<style media="screen">
+  .company-row {
+    padding: 2%;
+  }
+
+  .yourcompanyinfo {
+    padding-top: 5%;
+    padding: 2%;
+    padding-bottom: -5%;
+  }
+</style>
+
+<div class="page-wrapper">
+  <div class="row">
+    <div class="col-12">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">View Business Reports</h4>
+          <h6 class="card-subtitle">View Business Reports Below</h6>
+          <div class="table-responsive">
+            <table id="demo-foo-addrow" class="table m-t-30 no-wrap table-hover contact-list" data-page-size="10">
+              <thead>
+                <tr>
+                  <th>No</th>
+                  <th>Business Name</th>
+                  <th>View Business Report</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for report in reports %}
+                <tr>
+                  <td>{{forloop.counter}}</td>
+                  <td>
+                    <a href="javascript:void(0)">{{report.business_name}}</a>
+                  </td>
+                  <td>
+                    <a href="businessreport.html" target="_blank"> <button type="button"
+                        class="btn btn-info btn-rounded" data-toggle="modal" data-target="#add-contact">View Business
+                        Report</button> </a>
+                  </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endblock content %}

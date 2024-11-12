@@ -1,0 +1,257 @@
+{% extends "dashboard/base.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update Company Information</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .company-row {
+            padding: 2%;
+        }
+        .yourcompanyinfo {
+            padding-top: 5%;
+            padding: 2%;
+            padding-bottom: -5%;
+        }
+        .full-pop-up {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 181px;
+            width: calc(100% - 181px) !important;
+            max-width : 100vw; /* Adjust this value to the width of your sidebar */
+            margin: 0;
+            padding: 0;
+            z-index: 1050; /* Ensures the modal is on top of other elements */
+        }
+
+        .full-pop-up .modal-dialog {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .full-pop-up .modal-content {
+            height: 100%;
+            border-radius: 0;
+        }
+
+        .full-pop-up .modal-body {
+            overflow-y: auto;
+        }
+
+        .option-btn {
+            display: inline-block;
+            margin: 10px;
+            padding: 20px; /* Fixed padding for a bigger button */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            vertical-align: middle;
+            line-height: normal; /* Reset line-height */
+            overflow: hidden; /* Hide any overflowing text */
+            text-overflow: ellipsis; /* Display ellipsis (...) for overflowed text */
+            white-space: nowrap; /* Prevent text from wrapping */
+            background-color: transparent;
+            min-width: 100px; /* Minimum width */
+            min-height: 100px; /* Minimum height */
+        }
+
+        .option-btn:hover, .option-btn.selected {
+            background-color: #f0f0f0;
+        }
+
+        .progress-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .progress-bar {
+            width: 80%;
+        }
+
+        @keyframes blink {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+        }
+
+    </style>
+</head>
+<body>
+<div class="page-wrapper">
+    <div class="row">
+        <div class="yourcompanyinfo">
+            <div class="col-md-12">
+                <h4 class="d-inline">Update Your Company Information</h4>
+                <p class="text-muted m-t-0">See All Of Your Business Credit Information Below</p>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="company-row">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Current Business Address: {{ company.business_address }}</h4>
+                                <p class="card-text">Update Business Address By Putting In Your Information Below</p>
+                                <form class="m-t-25">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" value="{{ company.business_address }}">
+                                    </div>
+                                </form>
+                                <a href="javascript:void(0)" class="btn btn-primary">Update Information</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Annual Sales: {{ company.annual_sales }}</h4>
+                                <p class="card-text">Update Annual Sales By Putting In Your Information Below</p>
+                                <form class="m-t-25">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" value="{{ company.annual_sales }}">
+                                    </div>
+                                </form>
+                                <a href="javascript:void(0)" class="btn btn-primary">Update Information</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Current Business Phone Number: {{ company.telephone }}</h4>
+                                <p class="card-text">Update Current Business Phone Number By Putting In Your Information Below</p>
+                                <form class="m-t-25">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" value="{{ company.telephone }}">
+                                    </div>
+                                </form>
+                                <a href="javascript:void(0)" class="btn btn-primary">Update Information</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12">
+        <div class="company-row">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-title">Current Number Of Employees: {{ company.employees }} Employees</h4>
+                            <p class="card-text">Update Your Current Number Of Employees By Putting In Your Information Below</p>
+                            <form class="m-t-25">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" value="{{ company.employees }}">
+                                </div>
+                            </form>
+                            <a href="javascript:void(0)" class="btn btn-primary">Update Information</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-title">Current Line Of Business: {{ company.line_of_business }}</h4>
+                            <p class="card-text">Update Current Line Of Business By Putting In Your Information Below</p>
+                            <form class="m-t-25">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" value="{{ company.line_of_business }}">
+                                </div>
+                            </form>
+                            <a href="javascript:void(0)" class="btn btn-primary">Update Information</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    const questions = {{ questions|safe }};
+    const total_questions = questions.length;
+    let currentQuestionIndex = 0;
+
+    function selectOption(element) {
+        document.querySelectorAll('.option-btn').forEach(btn => {
+            btn.classList.remove('selected');
+        });
+        element.classList.add('selected');
+    }
+
+    function showQuestion(index) {
+        const questionData = questions[index];
+        $('#infoModalLabel').text(questionData.question_text);
+        $('#question-container').empty();
+        questionData.options.forEach(option => {
+            $('#question-container').append(`
+                <div class="option-btn" onclick="selectOption(this)">${option.option_text}</div>
+            `);
+        });
+    }
+
+    function saveResponse(questionIndex, response) {
+        const data = {
+            user_id: '{{ request.user.id }}',  // Use an appropriate user identifier
+            question_index: questionIndex,
+            response: response
+        };
+        fetch('/save-response/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': '{{ csrf_token }}'
+            },
+            body: JSON.stringify(data)
+        });
+    }
+
+    $(document).ready(function() {
+        $('#infoModal').modal('show');
+
+        $('#infoModal').on('shown.bs.modal', function () {
+            showQuestion(currentQuestionIndex);
+        });
+
+        $('#next-btn').click(function() {
+            const selectedOption = $('.option-btn.selected').text();
+            if (selectedOption) {
+                saveResponse(currentQuestionIndex, selectedOption);
+                currentQuestionIndex++;
+                if (currentQuestionIndex < total_questions) {
+                    showQuestion(currentQuestionIndex);
+                    const progressPercent = ((currentQuestionIndex + 1) / total_questions) * 100;
+                    $('#progress-bar-inner').css('width', progressPercent + '%');
+                    $('#progress-text').text((currentQuestionIndex + 1) + '/' + total_questions);
+                } else {
+                    // $('#question-container').html('<h5>Thank you for completing the survey! &#x1F44D;</h5>');
+                    $('#question-container').html('Thank you for completing the survey! <h6 style="font-size: 5em; animation: blink 1s infinite">&#x1F44D;</h6>'); 
+                    $('.btn-next, .progress-bar, #progress-text, .finanical-recomendations-question').hide();
+                    $('.close');
+                    
+                }
+            } else {
+                alert('Please select an option.');
+            }
+        });
+    });
+</script>
+</body>
+</html>
+{% endblock %}

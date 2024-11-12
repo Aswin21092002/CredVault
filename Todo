@@ -1,0 +1,3 @@
+Add a button to open checkout on the main page 
+Figure out how company reports are being queried 
+domain_url = 'https://sendesta.com/' // domain_url = 'http://localhost:8000/'
